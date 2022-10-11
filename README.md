@@ -1,23 +1,10 @@
-# Node.js & Passport Login
+# ```Forked``` Node JS / ExpressJS [ SECURE AUTH ]
 
-This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
+## Use Case
 
-### Version: 2.0.0
+We use passportJS for authenticating ```XeBill``` Consumers 
 
-### Usage
 
-```sh
-$ npm install
-```
+## Fast Auth / Security in mind
 
-```sh
-$ npm start
-# Or run with Nodemon
-$ npm run dev
-
-# Visit http://localhost:5000
-```
-
-### MongoDB
-
-Open "config/keys.js" and add your MongoDB URI, local or Atlas
+this has been most of the usefull tools we have used for web application development.
